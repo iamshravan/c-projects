@@ -29,7 +29,7 @@ main()
       cin>>b;
       cout<<"\n PHONE NO.:";
       cin>>c;
-      cout<<"\n ENTER BILL NO.:";
+      cout<<"\n ENTER BILL Number man:";
       cin>>i;
       again:;
       system("cls");
