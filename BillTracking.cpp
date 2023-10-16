@@ -18,7 +18,7 @@ main()
   unsigned int m=0,n=0,o=0,p=0,q=0,r=0,s=0,t=0,u=0,v=0;
   char name[50],rollno[10],pu,c[20],a[15],b[15],ok;
   main:;
-      cout<<"\n\n\nCONSUMER INFORMATION";
+      cout<<"\n\n\nCONSUMER STATUS INFO";
       cout<<"\n\n\n\n NAME:";
       gets(name);
       cout<<"\n ROLL NO:";
